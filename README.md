@@ -12,4 +12,4 @@ Following are the libraries used to create cnn algorithm
 # Recommend
 Use GPU to train this model
 
-*dataset has not been included , feel free to use any dataset*
+*dataset has not been included , feel free to use any image dataset*
